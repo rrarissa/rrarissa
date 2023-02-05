@@ -1,9 +1,5 @@
 ### Hello  👋 😊
 
-- 📫 How to reach me: arissa0107@gmail.com
-- 😄 Pronouns: she/her
-
-
 ![giphy](https://user-images.githubusercontent.com/65318759/216830605-86068e29-9c20-47a2-9d73-cf044c0760da.gif)
 
 
