@@ -11,6 +11,7 @@
 - 📫 How to reach me: arissa0107@gmail.com
 - 😄 Pronouns: she/her
 
+<div style="width:100%;height:0;padding-bottom:125%;position:relative;"><iframe src="https://giphy.com/embed/VbnUQpnihPSIgIXuZv" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/computer-cat-wearing-glasses-VbnUQpnihPSIgIXuZv">via GIPHY</a></p>
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=rrarissa&show_icons=true&locale=en" alt="rrarissa" /></p>
