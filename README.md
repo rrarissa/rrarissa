@@ -1,6 +1,5 @@
 ### Hello  👋 😊
 
-![giphy](https://user-images.githubusercontent.com/65318759/216830605-86068e29-9c20-47a2-9d73-cf044c0760da.gif)
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=rrarissa&show_icons=true&locale=en" alt="rrarissa" /></p>
