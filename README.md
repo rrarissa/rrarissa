@@ -3,7 +3,7 @@
 <p align="left">
 My name is Ruishu, and I am a CS graduate student @ Georgia Tech. I am currently working in the financial services industry and specialize in data analytics, reporting, and the development of ML systems.
   
-I am passionate about every aspect of the data science and machine learning lifecycle, from data engineering, analytics, and reporting, to model training and deployment in user-friendly, practical systems. My favorite work is to build beautiful and user-friendly dashboards, as well as doing web development. 
+I am passionate about every aspect of the data science and machine learning lifecycle, from data engineering, analytics, and reporting, to model training and deployment in user-friendly, practical systems. 
 
 I am currently dedicated to utilizing Generative AI and LLMs to increase productivity and improving customer services within the industry.
 
