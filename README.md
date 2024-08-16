@@ -1,4 +1,21 @@
-<h2 align="left">My Tech Stack</h2>
+<h2 align="left"> 🦋 Welcome! 🦋 </h2>
+<h3 align="left">About Me</h3>
+<p align="left">
+My name is Ruishu, and I am a CS graduate student @ Georgia Tech. I am currently working in the financial services industry and specialize in data analytics, reporting, and the development of ML systems.
+  
+I am passionate about every aspect of the data science and machine learning lifecycle, from data engineering, analytics, and reporting, to model training and deployment in user-friendly, practical systems. 
+
+I am currently dedicated to utilizing Generative AI and LLMs to increase productivity and improving customer services within the industry.
+
+</p>
+
+
+
+
+
+
+
+<h3 align="left">My Tech Stack</h3>
 <h3 style="color: blue;">Data Engineering</h3>
 <p align="left">
 <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/c7f2fa08-bb92-4898-a73e-b206be6bd573" width="60" height="60" >
