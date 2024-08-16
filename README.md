@@ -47,6 +47,9 @@
 
   <img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" width="60" height="60" />
   <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" width="60" height="60" />
+  <img src="https://user-images.githubusercontent.com/25181517/184117132-9e89a93b-65fb-47c3-91e7-7d0f99e7c066.png" width="60" height="60" />
+
+
 
 <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" width="60" height="60" />
 
@@ -54,17 +57,17 @@
 <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" width="60" height="60" />
 <img src="https://user-images.githubusercontent.com/25181517/192108376-c675d39b-90f6-4073-bde6-5a9291644657.png" width="60" height="60" />
 <img src="https://user-images.githubusercontent.com/25181517/192108895-20dc3343-43e3-4a54-a90e-13a4abbc57b9.png" width="60" height="60" />
+<img src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" width="60" height="60" />
 
 
 </p>
 
 <h3> MLOps </h3>
 <p align="left">
-  <img src="https://freeiconshop.com/wp-content/uploads/edd/html-flat.png" width="35" height="35" alt="HTML">
-  <img src="https://freeiconshop.com/wp-content/uploads/edd/css-flat.png" width="38" height="38" alt="CSS">
-  <img src="https://freeiconshop.com/wp-content/uploads/edd/js-flat.png" width="38" height="38" alt="JavaScript">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="33" height="33" alt="Java">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python">
+<img src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" width="60" height="60" />
+<img src="https://user-images.githubusercontent.com/25181517/182534006-037f08b5-8e7b-4e5f-96b6-5d2a5558fa85.png" width="60" height="60" />
+<img src="https://user-images.githubusercontent.com/25181517/183868728-b2e11072-00a5-47e2-8a4e-4ebbb2b8c554.png" width="60" height="60" />
+
 </p>
 
 <h3> LLMs & LLMOps </h3>
