@@ -52,9 +52,10 @@
 <img src="https://user-images.githubusercontent.com/25181517/192108895-20dc3343-43e3-4a54-a90e-13a4abbc57b9.png" width="60" height="60" />
 <img src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" width="60" height="60" />
 <img src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" width="60" height="60" />
+<img src="https://github.com/user-attachments/assets/3ed189b8-cfc8-4c94-983e-11f28ad4e70e" width="60" height="60" />
 
 
-</p>
+
 
 <h3> MLOps </h3>
 <p align="left">
