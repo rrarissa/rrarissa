@@ -19,22 +19,16 @@
 <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/c7f2fa08-bb92-4898-a73e-b206be6bd573" width="60" height="60" >
 <img src="https://user-images.githubusercontent.com/25181517/184357834-eba1eee1-6074-4b9c-8ed3-5373868096cc.png" width="60" height="60" >
 <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/ef235485-5e32-4d25-8c49-5dbe77e50f3e" width="60" height="60" >
-<img src="https://en.wikipedia.org/wiki/Apache_Airflow#/media/File:AirflowLogo.png" width="60" height="60" >
+<img src="https://github.com/user-attachments/assets/10402a29-2f27-4322-bff8-1e59791f0d6c" width="60" height="60" />
 </p>
 
-
-
-
-
-
 <h3> Data Analytics & Reporting</h3>
-<img src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" width="60" height="60" >
-
-
-<img src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" width="60" height="60" >
-
-
-
+<p align="left">
+<img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" width="60" height="60" >
+<img src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" width="60" height="60" >
+<img src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" width="60" height="60" >
+<img src="https://github.com/user-attachments/assets/10402a29-2f27-4322-bff8-1e59791f0d6c" width="60" height="60" />
+</p>
 
 
 <h3> Machine Learning & Data Science</h3>
