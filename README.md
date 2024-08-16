@@ -65,4 +65,10 @@
 </p>
 
 <h3> LLMs & LLMOps </h3>
+<p align="left">
+<img src="https://github.com/user-attachments/assets/83d25365-0366-414e-a091-9253f4e3774d" width="70" height="70" />
+  <img src="https://github.com/user-attachments/assets/25402dba-0e74-450f-b6e1-53adb387b5a8" width="100" height="70" />
+
+</p>
+
 
