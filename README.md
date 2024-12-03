@@ -1,11 +1,16 @@
 <h2 align="left"> 🦋 Welcome! 🦋 </h2>
 <h3 align="left">About Me</h3>
 <p align="left">
-My name is Ruishu, and I am a CS graduate student @ Georgia Tech. I am currently working at the largest bank of Canada and specialize in data analytics, reporting, and the development of ML systems.
-  
-I am passionate about every aspect of the data science and machine learning lifecycle, from data engineering, analytics, and reporting, to model training and deployment in user-friendly, practical systems. 
 
-I am currently dedicated to utilizing Generative AI and LLMs to increase productivity and improving customer services within the industry.
+Hi, I’m Ruishu, a CS graduate student @ Georgia Tech. I specialize in machine learning, with a focus on NLP and CV. 
+
+Currently, I’m working @ RBC, the largest bank in Canada. I enjoy the work of data analytics, applied ML, and developing end-to-end ML systems.
+
+I’m deeply passionate about every stage of the data science and machine learning lifecycle—ranging from data engineering, analytics, and reporting to model training, deployment, and building practical, user-friendly systems.
+
+Right now, I focus on leveraging large language models (LLMs) and generative AI to boost productivity and enhance customer services across the industry.
+
+Feel free to reach out if you’d like to connect about careers, education, or just to chat! I’m always happy to meet new people.
 
 </p>
 
