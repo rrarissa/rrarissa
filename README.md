@@ -8,8 +8,6 @@ Currently, I’m working @ RBC, the largest bank in Canada. I enjoy the work of 
 
 I’m deeply passionate about every stage of the data science and machine learning lifecycle—ranging from data engineering, analytics, and reporting to model training, deployment, and building practical, user-friendly systems.
 
-Right now, I focus on leveraging large language models (LLMs) and generative AI to boost productivity and enhance customer services across the industry.
-
 Feel free to reach out if you’d like to connect about careers, education, or just to chat! I’m always happy to meet new people.
 
 </p>
