@@ -2,7 +2,7 @@
 <h3 align="left">About Me</h3>
 <p align="left">
 
-Hi, I’m Ruishu, a CS graduate student @ Georgia Tech. I specialize in machine learning, with a focus on NLP and CV. 
+Hi, I’m Ruishu, a CS graduate student @ Georgia Tech. I specialize in machine learning, with a focus on NLP and LLMs. 
 
 Currently, I’m working @ RBC, the largest bank in Canada. I enjoy the work of data analytics, applied ML, and developing end-to-end ML systems.
 
